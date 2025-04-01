@@ -18,8 +18,21 @@ Before running the scraper, ensure you have the following:
   - `pandas`
   - `openpyxl`
   - `serpapi`
-  
+
 Install the required libraries using:
 
 `pip install requests beautifulsoup4 pandas openpyxl serpapi`
+
+## Output Format
+
+The Excel file contains the following columns:
+
+- Title: Name of the worksheet, game, or manipulative.
+- Category: Type of resource (worksheet, game, manipulative).
+- URL: Direct link to the resource.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests to improve the scraper.
+  
 
