@@ -17,7 +17,7 @@ Before running the scraper, ensure you have the following:
   - `pandas`
   - `openpyxl`
   - `serpapi`
-
+  
 Install the required libraries using:
 
 `pip install requests beautifulsoup4 pandas openpyxl serpapi`
