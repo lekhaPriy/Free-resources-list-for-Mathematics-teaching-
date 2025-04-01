@@ -5,6 +5,7 @@ This project is a Python-based web scraper designed to collect links(url) of **f
 
 ## ✨ Key Features
 - Scrapes math worksheets, games, and manipulatives from multiple websites.
+- categoried as worksheets, games and manupulatives
 - Exports the scraped information into a clean and user-friendly Excel file.
 - Customizable to include additional websites and resource types.
 
